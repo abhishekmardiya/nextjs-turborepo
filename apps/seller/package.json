@@ -1,0 +1,25 @@
+{
+  "name": "@repo/seller",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack --port 3006",
+    "build": "next build --turbopack",
+    "start": "next start",
+    "check-types": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@repo/shared-form": "workspace:*",
+    "next": "catalog:",
+    "react": "catalog:",
+    "react-dom": "catalog:"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "catalog:",
+    "@types/node": "catalog:",
+    "@types/react": "catalog:",
+    "@types/react-dom": "catalog:",
+    "tailwindcss": "catalog:",
+    "typescript": "catalog:"
+  }
+}
