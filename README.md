@@ -1,4 +1,9 @@
-# asyncawaits-monorepo
+# Next.js Monorepo
+
+**Live deployments**
+
+- [Admin](https://nextjs-turborepo-admin.vercel.app/)
+- [Seller](https://nextjs-turborepo-seller.vercel.app/)
 
 A [Turborepo](https://turbo.build) monorepo with two Next.js apps and a shared form package.
 

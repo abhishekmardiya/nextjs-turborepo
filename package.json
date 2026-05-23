@@ -1,5 +1,5 @@
 {
-  "name": "asyncawaits-monorepo",
+  "name": "nextjs-monorepo",
   "private": true,
   "scripts": {
     "build": "turbo run build",

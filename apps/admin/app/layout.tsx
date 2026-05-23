@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Admin — asyncawaits",
+  title: "Admin — Next.js Monorepo",
   description: "Admin portal (admin.yourdomain.com)",
 };
 

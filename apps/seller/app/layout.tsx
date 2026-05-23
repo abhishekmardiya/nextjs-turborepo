@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Seller — asyncawaits",
+  title: "Seller — Next.js Monorepo",
   description: "Seller portal (seller.yourdomain.com)",
 };
 
